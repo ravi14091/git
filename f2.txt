@@ -2,3 +2,5 @@ bng
 mng
 smg
 dvg
+bpt
+manja
